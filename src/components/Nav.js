@@ -1,7 +1,7 @@
 export default function Nav() {
     return (
         <nav>
-            <img src="C:\Users\NITISH\projects\LittleLemon\images\Asset 16@4x.png" />
+            <img src="\images\Asset 16@4x.png" loading="lazy" />
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">About</a></li>
